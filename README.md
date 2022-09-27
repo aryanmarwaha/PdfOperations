@@ -3,7 +3,7 @@
 <h1>
   This Project can be used to extract all the Links (embeded as well) from a PDF file
 </h1>
-<br>
+<br> 
 
 <img src="https://user-images.githubusercontent.com/102375260/192352886-d94769e4-a6f1-4bff-99c2-8eba1c07c9db.png" height="200" width="400">
 
